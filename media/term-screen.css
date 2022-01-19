@@ -205,7 +205,7 @@ strong {
 .left,.right {
 	top: 0;
 	bottom: 0;
-	position: fixed;
+	display: inline-block;
 	overflow-x: hidden;
 }
 
