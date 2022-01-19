@@ -23,7 +23,7 @@ title: Léo Martin's CV
 <div><i class="fas fa-phone-alt"></i>+33 6 12 34 56 78</div>
 <div><i class="fas fa-envelope"></i><a href="mailto:lmartin@student.42.fr" title="lmartin@student.42.fr">lmartin@student.42.fr</a></div>
 <div><i class="fab fa-firefox-browser"></i><a href="https://y3ll0w42.dev">y3ll0w42.dev</a></div>
-<div><i class="fab fa-github"></i><a href="https://github.com/y3ll0w42">github.com/yell0w42</a></div>
+<div><i class="fab fa-github"></i><a href="https://github.com/y3ll0w42">github.com/y3ll0w42</a></div>
 </div>
 
 ## Languages
