@@ -60,7 +60,7 @@ Looking for cyber-security 1 year apprenticeship
 __DevOps Internship__
 
 `Toulouse, France`
-*DSNA/TDI - DGAC (Aviation Civile)*
+*DSNA/DTI - DGAC (Aviation Civile)*
 + Build a special iso from CentOS8 and ansible playbook with tools for approach and control towers.
 
 `04/2017 - 06/2017`
