@@ -78,7 +78,7 @@ __42__
 *42Paris*
 
 + Currently level 19.15.
-+ Have done the common-core which contains lots of C projects, few C++ projects and web based projet. Few projects about server management and communication.
++ Have done the common-core which contains lots of C projects, few C++ projects and a web based projet. Few projects about server management and communication.
 + Post Common-core projects done:
   + Algorithm projects (python/C++/js),
   + DevOps projects (ansible/docker/kubernetes),
