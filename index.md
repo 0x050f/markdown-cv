@@ -20,7 +20,7 @@ title: Léo Martin's CV
 </div>
 
 <div class="reach_me">
-<div><i class="fas fa-phone-alt"></i>+33 6 12 34 56 78</div>
+<div><i class="fas fa-phone-alt"></i>+33 1 23 45 67 89</div>
 <div><i class="fas fa-envelope"></i><a href="mailto:lmartin@student.42.fr" title="lmartin@student.42.fr">lmartin@student.42.fr</a></div>
 <div><i class="fab fa-firefox-browser"></i><a href="https://y3ll0w42.dev">y3ll0w42.dev</a></div>
 <div><i class="fab fa-github"></i><a href="https://github.com/y3ll0w42">github.com/y3ll0w42</a></div>
@@ -29,9 +29,9 @@ title: Léo Martin's CV
 ## Languages
 + xxxx xxx_ C
 + xxxx xxx_ Bash
-+ xxxx xxx_ Javascript
 + xxxx xx__ Assembly
 + xxxx xx__ C++
++ xxxx x___ Javascript
 + xxxx x___ Python
 + xxxx x___ Php
 + xxxx \____ Java
@@ -39,13 +39,9 @@ title: Léo Martin's CV
 + xx__ \____ PL/SQL
 + xx__ \____ Perl
 
-## Working Environment
-+ OS > ubuntu / macOS Monterey
-+ IDE > vim
-
 ## Hobbies
 
-I watch a lot of films/series, my favorite movies are Ghibli's animated movies. I'm also a huge listener of music, mostly punk, rock and rap genre and I play a bit of guitar !
+I watch a lot of films/series, my favorite movies are Ghibli's animated movies. I'm also a huge listener of music, mostly punk, rock, indie and rap genre and I play a bit of guitar !
 
 </div>
 
@@ -62,6 +58,7 @@ __DevOps Internship__
 `Toulouse, France`
 *DSNA/DTI - DGAC (Aviation Civile)*
 + Build a special iso from CentOS8 and ansible playbook with tools for approach and control towers.
++ iso/playbook testing using continuous integration and virtualization.
 
 `04/2017 - 06/2017`
 __Web Development Internship__
@@ -69,8 +66,8 @@ __Web Development Internship__
 `Nancy, France`
 *Technolia 2.0*
 + Adding functionalities to an existing website using data from electric charging station/captor on parking slots.
++ Providing data and statistics to cities owning parking slots.
 + Mostly using Ruby and Javascript.
-+ Bug fixes.
 
 ## Studies
 
@@ -80,9 +77,13 @@ __42__
 `Paris, France`
 *42Paris*
 
-+ Currently level 17.83.
++ Currently level 19.15.
 + Have done the common-core which contains lots of C projects, few C++ projects and web based projet. Few projects about server management and communication.
-+ Post Common-core projects done: Algorithm projects (python/C++/js), DevOps projects (ansible/docker/kubernetes) and virus projects (asm/c).
++ Post Common-core projects done:
+  + Algorithm projects (python/C++/js),
+  + DevOps projects (ansible/docker/kubernetes),
+  + Virus projects (asm/c),
+  + Security/pwn projects.
 + Most of my 42 projects are available on my github profile, you should take a look ! :)
 
 `2017 - 2018`
@@ -91,7 +92,7 @@ __Bachelor's Degree__
 `Nancy, France`
 *Université de Lorraine*
 
-+ Web projects (php/js), first assembly project and lot of Java projects.
++ Web/Game projects (php/js), Algorithm projects (Java), and first c++ projects.
 
 `2015 - 2017`
 __DUT Informatique__ 
@@ -100,7 +101,7 @@ __DUT Informatique__
 *IUT Nancy-Charlemagne*
 
 + Discovery of the development world.
-+ Web projects, lot of Java projects.
++ Web projects, lot of Java projects (Algorithm, network, ...).
 
 `July 2015`
 __High School Diploma__

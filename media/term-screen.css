@@ -215,8 +215,7 @@ strong {
 	left: 0;
 	width: 30%;
 	font-size: 1.5vw;
-	border-width: 2px;
-	border-right-style: solid;
+	vertical-align: top;
 }
 
 p,h3,ul,.reach_me{
@@ -226,6 +225,10 @@ p,h3,ul,.reach_me{
 .right {
 	right: 0;
 	width: 65%;
+	border-width: 2px;
+	border-left-style: solid;
+	margin: 0;
+	padding-left: 24px;
 }
 
 .lang img {
