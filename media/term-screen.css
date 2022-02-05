@@ -210,7 +210,7 @@ strong {
 }
 
 .left {
-	top: 10px;
+	padding-top: 20px;
 	bottom: 10px;
 	left: 0;
 	width: 30%;
@@ -223,11 +223,13 @@ p,h3,ul,.reach_me{
 }
 
 .right {
+	padding-top: 20px;
 	right: 0;
 	width: 65%;
 	border-width: 2px;
 	border-left-style: solid;
 	margin: 0;
+	margin-bottom: 20px;
 	padding-left: 24px;
 }
 
