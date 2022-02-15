@@ -41,14 +41,14 @@ title: Léo Martin's CV
 
 ## Hobbies
 
-I watch a lot of films/series, my favorite movies are Ghibli's animated movies. I'm also a huge listener of music, mostly punk, rock, indie and rap genre and I play a bit of guitar !
+I watch a lot of films/series, my favorite ones are Ghibli's animated movies. I'm also a huge music lover, mostly punk, rock, indie and rap genre and I play a bit of guitar !
 
 </div>
 
 
 <div markdown="1" class="right">
 # IT Student
-Looking for cyber-security 1 year apprenticeship
+Looking for a 1-year cybersecurity apprenticeship
 
 ## Experience
 
@@ -57,7 +57,7 @@ __DevOps Internship__
 
 `Toulouse, France`
 *DSNA/DTI - DGAC (Aviation Civile)*
-+ Build a special iso from CentOS8 and ansible playbook with tools for approach and control towers.
++ Built a special iso from CentOS8 and ansible playbook with tools for approach and control towers.
 + iso/playbook testing using continuous integration and virtualization.
 
 `04/2017 - 06/2017`
@@ -66,7 +66,7 @@ __Web Development Internship__
 `Nancy, France`
 *Technolia 2.0*
 + Adding functionalities to an existing website using data from electric charging station/captor on parking slots.
-+ Providing data and statistics to cities owning parking slots.
++ Providing data and statistics to city-owned parking slots.
 + Mostly using Ruby and Javascript.
 
 ## Studies
@@ -77,8 +77,8 @@ __42__
 `Paris, France`
 *42Paris*
 
-+ Currently level 19.15.
-+ Have done the common-core which contains lots of C projects, few C++ projects and a web based projet. Few projects about server management and communication.
++ Currently level 20.
++ Completed the common-core which consists in mainly C, a few C++ and web based projects. Few projects about server management and communication.
 + Post Common-core projects done:
   + Algorithm projects (python/C++/js),
   + DevOps projects (ansible/docker/kubernetes),
