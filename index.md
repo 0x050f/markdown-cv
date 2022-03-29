@@ -48,7 +48,7 @@ I watch a lot of films/series, my favorite ones are Ghibli's animated movies. I'
 
 <div markdown="1" class="right">
 # IT Student
-Looking for a 1-year cybersecurity apprenticeship
+Looking for 1-2 years cybersecurity apprenticeship
 
 ## Experience
 
@@ -77,12 +77,13 @@ __42__
 `Paris, France`
 *42Paris*
 
-+ Currently level 20.
++ Currently level 21.
 + Completed the common-core which consists in mainly C, a few C++ and web based projects. Few projects about server management and communication.
 + Post Common-core projects done:
   + Algorithm projects (python/C++/js),
   + DevOps projects (ansible/docker/kubernetes),
-  + Virus projects (asm/c),
+  + Virus/Keylogger (Unix/Windows) projects (asm/c),
+  + Network projects (c),
   + Security/pwn projects.
 + Most of my 42 projects are available on my github profile, you should take a look ! :)
 
