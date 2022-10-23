@@ -16,14 +16,14 @@ title: Léo Martin's CV
 <img src="assets/img/fr.png">
 <img src="assets/img/en.png">
 </div>
-#### 24 years old
+#### 25 years old
 </div>
 
 <div class="reach_me">
 <div><i class="fas fa-phone-alt"></i>+33 1 23 45 67 89</div>
 <div><i class="fas fa-envelope"></i><a href="mailto:lmartin@student.42.fr" title="lmartin@student.42.fr">lmartin@student.42.fr</a></div>
-<div><i class="fab fa-firefox-browser"></i><a href="https://y3ll0w42.dev">y3ll0w42.dev</a></div>
-<div><i class="fab fa-github"></i><a href="https://github.com/y3ll0w42">github.com/y3ll0w42</a></div>
+<div><i class="fab fa-firefox-browser"></i><a href="https://0x050f.github.io">0x050f.github.io</a></div>
+<div><i class="fab fa-github"></i><a href="https://github.com/0x050f">github.com/0x050f</a></div>
 </div>
 
 ## Languages
