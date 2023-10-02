@@ -50,17 +50,14 @@ __Security Development Apprenticeship__
 
 `Paris, France`
 *Ministère des Armées*
-+ Graph generation from event logs for digital investigation purposes.
-+ Development of a daily dashboard in python to correlate event logs with command line inputs.
-+ Automated deployment of the solution into a SIEM.
++ Development of a graph generator in python to visualize system event logs for digital investigation purposes. Also worked on setting up daily reports via dashboard to correlate event logs and command lines using syntactic analysis. Finally achieved the automatic deployment of the solution to be able to include it in a SIEM.
 
 `05/2021 - 11/2021`
 __DevOps Internship__
 
 `Toulouse, France`
 *DSNA/DTI - DGAC (Aviation Civile)*
-+ Built a special iso from CentOS8 and ansible playbook with tools for approach and control towers.
-+ iso/playbook testing using continuous integration and virtualization.
++ Built a special iso from CentOS8 and ansible playbook with tools for approach and control towers. Also build up iso/playbook testing using continuous integration and virtualization.
 
 ## Studies
 
@@ -70,7 +67,7 @@ __RNCP7: Expert in IT Architecture (RNCP36137)__
 `Paris, France`
 *42Paris*
 
-+  I spent 4 years at school 42. Where I discovered low-level development in C then I started to become interested in devops and cybersecurity.
++ Discovering of low-level development in C then started to become interested in devops and cybersecurity.
 + A few projects I have done:
   - · Develop my own unix-like Kernel in Rust from scratch
 > [<i class="fab fa-github"></i> github.com/Harthann/Yak](https://github.com/Harthann/Yak)
