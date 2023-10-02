@@ -11,46 +11,48 @@ title: Léo Martin's CV
 <img id="photo" src="assets/img/lmartin.jpg">
 </div>
 # Léo Martin
-
-<div class="lang">
-<img src="assets/img/fr.png">
-<img src="assets/img/en.png">
-</div>
-#### 25 years old
 </div>
 
 <div class="reach_me">
 <div><i class="fas fa-phone-alt"></i>+33 1 23 45 67 89</div>
-<div><i class="fas fa-envelope"></i><a href="mailto:lmartin@student.42.fr" title="lmartin@student.42.fr">lmartin@student.42.fr</a></div>
+<div><i class="fas fa-envelope"></i><a href="mailto:lmartin.dev@protonmail.com" title="lmartin.dev@protonmail.com">lmartin.dev@protonmail.com</a></div>
 <div><i class="fab fa-firefox-browser"></i><a href="https://0x050f.github.io">0x050f.github.io</a></div>
 <div><i class="fab fa-github"></i><a href="https://github.com/0x050f">github.com/0x050f</a></div>
+<div><i class="fas fa-skull"></i><a href="https://www.root-me.org/0x050f">root-me.org/0x050f</a></div>
 </div>
+
 
 ## Languages
 + xxxx xxx_ C
-+ xxxx xxx_ Bash
-+ xxxx xx__ Assembly
-+ xxxx xx__ C++
-+ xxxx x___ Javascript
-+ xxxx x___ Python
-+ xxxx x___ Php
++ xxxx xx__ Rust
++ xxxx xx__ Python
++ xxxx xx__ Intel Assembly
++ xxxx x___ C++
++ xxxx x___ Bash
++ xxxx \____ Php
 + xxxx \____ Java
++ xxxx \____ Javascript
 + xxxx \____ Ruby
 + xx__ \____ PL/SQL
 + xx__ \____ Perl
-
-## Hobbies
-
-I watch a lot of films/series, my favorite ones are Ghibli's animated movies. I'm also a huge music lover, mostly punk, rock, indie and rap genre and I play a bit of guitar !
 
 </div>
 
 
 <div markdown="1" class="right">
-# IT Student
-Looking for 1-2 years cybersecurity apprenticeship
+# Security Developer
+Looking for a job
 
-## Experience
+## Experiences
+
+`08/2022 - 09/2023`
+__Security Development Apprenticeship__
+
+`Paris, France`
+*Ministère des Armées*
++ Graph generation from event logs for digital investigation purposes.
++ Development of a daily dashboard in python to correlate event logs with command line inputs.
++ Automated deployment of the solution into a SIEM.
 
 `05/2021 - 11/2021`
 __DevOps Internship__
@@ -60,32 +62,28 @@ __DevOps Internship__
 + Built a special iso from CentOS8 and ansible playbook with tools for approach and control towers.
 + iso/playbook testing using continuous integration and virtualization.
 
-`04/2017 - 06/2017`
-__Web Development Internship__
-
-`Nancy, France`
-*Technolia 2.0*
-+ Adding functionalities to an existing website using data from electric charging station/captor on parking slots.
-+ Providing data and statistics to city-owned parking slots.
-+ Mostly using Ruby and Javascript.
-
 ## Studies
 
-`10/2019 - now`
-__42__
+`10/2019 - 09/2023`
+__RNCP7: Expert in IT Architecture (RNCP36137)__
 
 `Paris, France`
 *42Paris*
 
-+ Currently level 21.
-+ Completed the common-core which consists in mainly C, a few C++ and web based projects. Few projects about server management and communication.
-+ Post Common-core projects done:
-  + Algorithm projects (python/C++/js),
-  + DevOps projects (ansible/docker/kubernetes),
-  + Virus/Keylogger (Unix/Windows) projects (asm/c),
-  + Network projects (c),
-  + Security/pwn projects.
-+ Most of my 42 projects are available on my github profile, you should take a look ! :)
++  I spent 4 years at school 42. Where I discovered low-level development in C then I started to become interested in devops and cybersecurity.
++ A few projects I have done:
+  - · Develop my own unix-like Kernel in Rust from scratch
+> [<i class="fab fa-github"></i> github.com/Harthann/Yak](https://github.com/Harthann/Yak)
+  - · Virus/Keylogger (Unix/Windows) projects (intel asm/C)
+> [<i class="fab fa-github"></i> github.com/0x050f/death](https://github.com/0x050f/death) \| [<i class="fab fa-github"></i> github.com/0x050f/tinky-winkey](https://github.com/0x050f/tinky-winkey)
+  - · Cryptographic projects (C)
+> [<i class="fab fa-github"></i> github.com/0x050f/ft_ssl](https://github.com/0x050f/ft_ssl)
+  - · Network projects (C)
+> [<i class="fab fa-github"></i> github.com/Harthann/ft_nmap](https://github.com/Harthann/ft_nmap) \| [<i class="fab fa-github"></i> github.com/0x050f/ft_malcolm](https://github.com/0x050f/ft_malcolm)
+  - · Reverse engineering and pwned projects
+  - · DevOps projects (ansible/docker/kubernetes)
+  - · Algorithm projects (python/C++/js)
++ More projects on github !
 
 `2017 - 2018`
 __Bachelor's Degree__
@@ -103,11 +101,3 @@ __DUT Informatique__
 
 + Discovery of the development world.
 + Web projects, lot of Java projects (Algorithm, network, ...).
-
-`July 2015`
-__High School Diploma__
-
-`Reims, France`
-*Lycée Marc Chagall*
-
-+ Mathematical Specialization

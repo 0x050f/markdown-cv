@@ -38,7 +38,10 @@ ol, ul {
 	list-style: none;
 }
 blockquote, q {
+	padding-left: 1.5em;
+	font-size: 1vw;
 	quotes: none;
+	color: #DCDCDC;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -61,6 +64,7 @@ body {
 	font-family: 'Fira Code';
 	margin-top: 1em;
 	margin-left: 1em;
+	color: black;
 }
 
 p {
@@ -103,7 +107,6 @@ ul {
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
 	/*color: #777;*/
 }
 
@@ -155,7 +158,7 @@ h3 {
 
 a {
 	color: inherit;
-	/*text-decoration:none*/
+	text-decoration:none
 }
 
 a:hover {
@@ -190,7 +193,7 @@ strong {
 
 .left > *:not(.header) {
 	width: 88%;
-	left: 2vw;
+	left: 1vw;
 }
 
 .left .header > * {
@@ -257,11 +260,12 @@ p,h3,ul,.reach_me{
 .reach_me > * {
 	display: flex;
 	align-items: center;
+	margin-bottom: 10px;
 }
 
 .reach_me i {
-	font-size: 3vw;
-	margin: 0 5px 0 0;
+	font-size: 2.5vw;
+	margin: 0 10px 0 0;
 }
 
 .reach_me a{
